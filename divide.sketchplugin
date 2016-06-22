@@ -37,10 +37,10 @@ var f = function(){
 	call_action(paths_m.itemWithTitle("Flatten"));
 
 	[i5 select:true byExpandingSelection:false];
-	call_action(arrange_m.itemWithTitle("Bring To Front"));
+	call_action(arrange_m.itemWithTitle("Move To Front"));
 
 	[i6 select:true byExpandingSelection:false];
-	call_action(arrange_m.itemWithTitle("Bring To Front"));
+	call_action(arrange_m.itemWithTitle("Move To Front"));
 
 
 	[i3 select:true byExpandingSelection:false];
